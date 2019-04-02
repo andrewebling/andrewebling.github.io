@@ -18,6 +18,10 @@ Unofficially, it was possible to jailbreak an iPhone, download an unofficial, re
 
 As soon as the official iPhone OS 2.0 SDK came out, I set about scratching an itch - solving a real world problem I had; having ideas at inconvenient times. The result of this was [iBlueSky][1] - a mindmapping app, designed for capturing and developing ideas on-the-go. I learned Objective-C and iOS SDK development on-the-job - entirely self taught and with very little public information available. 3 months later, iBlueSky launched and was the second mindmapping app on iOS by a matter of days and went on to be featured on the front page of the UK App Store for 2 weeks.
 
+A few years later, the iPad launched, providing an infinitely better platform for mobile mindmapping. 
+
+![iBlueSky on iPad]({{ site.url }}./assets/ibluesky-ipad.png)
+
 Once the initial "app goldrush" subsided, I worked on a variety of apps for different clients, while keeping iBlueSky going as a sideline. Eventually I went to work for [Shazam][2], inheriting a codebase with a rather checkered history, which was eventually re-written (test-first) in Objective-C, back when we were still `[myObj retain]` and `[myObj release]`-ing everything in the days before ARC. The end result was an app which was far, far more stable, started in a fraction of the time and [massively reduced the time taken to obtain a match][3] to a matter of seconds.
 
 Fast forward several years and with the launch of Swift, I went to work on a greenfield Swift project. As with any new language or platform, initially, the tools and libraries weren't in place to support disciplined TDD, so this project was not developed test-first. Although the language was safer by design and far more bugs were caught at compile time, I really noticed the challenges associated with not working in a test-driven manner.

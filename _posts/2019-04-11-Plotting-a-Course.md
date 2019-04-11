@@ -119,7 +119,7 @@ In terms of other skills I hope to invest in:
 
 # Finally #
 
-
+This will be a long journey, which will require stickability and persistence to complete. I will endeavour to blog regularly throughout the process.
 
 
 [1]: https://www.macstories.net/stories/before-the-app-store-the-sweet-solution-of-web-apps-and-developers-relentless-passion/

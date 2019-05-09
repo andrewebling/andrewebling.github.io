@@ -56,7 +56,7 @@ Command CodeSign failed with a nonzero exit code
 
 With that issue resolved, the result, prior to any code changes to specifically add support for Marzipan, looked as follows:
 
-![iBlueSky on macOS]({{ site.url }}./iBlueSky-Marzipan.png)
+![iBlueSky on macOS](iBlueSky-Marzipan.png)
 
 Initial observations, as follows:
 

@@ -13,7 +13,7 @@ To road test the process of porting to macOS with Marzipan, I will be using my o
 
 The process I followed to get iBlueSky up and running with Marzipan went something like:
 
-1. Clone https://github.com/steventroughtonsmith/marzipanify.git
+1. Clone <https://github.com/steventroughtonsmith/marzipanify.git>
 1. Open `marzipanify.xcodeproj` in Xcode.
 1. Select the correct Team under Signing and let _Automatic manage signing_ ~~break things really badly~~ do it's magic
 1. Build the `marzipanify` console app, entering keychain password to allow codesigning to complete.
@@ -117,27 +117,27 @@ One final observation though - my gut feel is that if Steve Jobs was still with 
 
 Steven Troughton Smith's groundbreaking work on unofficially opening up Marzipan, prior to official release:
 
-https://www.highcaffeinecontent.com/blog/20190302-Making-Marzipan-Apps-Sing
+<https://www.highcaffeinecontent.com/blog/20190302-Making-Marzipan-Apps-Sing>
 
-https://www.highcaffeinecontent.com/blog/20190302-Making-Marzipan-Apps-Sing
+<https://www.highcaffeinecontent.com/blog/20190302-Making-Marzipan-Apps-Sing>
 
-https://www.highcaffeinecontent.com/blog/20190307-Deeper-Integration-with-Marzipan
+<https://www.highcaffeinecontent.com/blog/20190307-Deeper-Integration-with-Marzipan>
 
-https://github.com/steventroughtonsmith/marzipanify
+<https://github.com/steventroughtonsmith/marzipanify>
 
 Opinion piece from Craig Hockenberry:
 
-https://blog.iconfactory.com/2019/05/what-to-expect-from-marzipan/
+<https://blog.iconfactory.com/2019/05/what-to-expect-from-marzipan/>
 
 # Twitter Accounts #
 
-https://twitter.com/stroughtonsmith
+<https://twitter.com/stroughtonsmith>
 
-https://twitter.com/NSBiscuit
+<https://twitter.com/NSBiscuit>
 
-https://twitter.com/hbkirb
+<https://twitter.com/hbkirb>
 
-https://twitter.com/argentumko
+<https://twitter.com/argentumko>
 
 [1]: https://itunes.apple.com/us/app/ibluesky-mindmapping/id291664204?mt=8 "iBlueSky"
 [2]: https://www.stackoverflow.com "Stackoverflow"
